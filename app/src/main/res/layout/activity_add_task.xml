@@ -40,7 +40,7 @@
 
     <EditText
         android:id="@+id/descriptionEditText"
-
+        android:layout_width="0dp"
         android:layout_height="120dp"
         android:hint="Description"
         android:gravity="top"
