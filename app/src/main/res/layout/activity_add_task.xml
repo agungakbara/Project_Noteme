@@ -27,6 +27,7 @@
 
     <EditText
         android:id="@+id/titleEditText"
+
         android:layout_width="0dp"
         android:minHeight="48dp"
         android:hint="Title"
