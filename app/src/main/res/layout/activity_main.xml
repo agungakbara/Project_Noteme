@@ -43,8 +43,8 @@
     <!-- TextView for empty message -->
     <TextView
         android:id="@+id/emptyTextView"
-        android:layout_height="wrap_content"
         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:text="Note is empty"
         android:textSize="18sp"
         android:textColor="@android:color/darker_gray"
