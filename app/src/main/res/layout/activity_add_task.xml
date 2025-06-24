@@ -56,7 +56,6 @@
     <EditText
         android:id="@+id/dueDateEditText"
         android:layout_width="0dp"
-
         android:minHeight="48dp"
         android:hint="Due Date"
         android:focusable="false"
