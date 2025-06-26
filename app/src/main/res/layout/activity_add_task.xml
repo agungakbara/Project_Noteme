@@ -69,7 +69,6 @@
 
     <EditText
         android:id="@+id/extraEditText"
-
         android:layout_width="0dp"
         android:minHeight="48dp"
         android:hint="Extra"
