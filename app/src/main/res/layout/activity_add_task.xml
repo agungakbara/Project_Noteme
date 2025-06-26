@@ -27,7 +27,7 @@
 
     <EditText
         android:id="@+id/titleEditText"
-        android:layout_height="wrap_content"
+
         android:layout_width="0dp"
         android:minHeight="48dp"
         android:hint="Title"
@@ -82,7 +82,7 @@
 
     <Button
         android:id="@+id/saveButton"
-
+        android:layout_height="wrap_content"
         android:layout_width="0dp"
         android:text="Save"
         android:backgroundTint="@color/purple_500"
